@@ -1,6 +1,6 @@
 # Hi, I'm Ricardo Sampaio 👋
 
-I am a Technical Product & Project Manager based in Braga, Portugal. With over 10 years of experience, I specialize in bridging the gap between complex .NET engineering and strategic business goals.
+I am a Technical Project Manager based in Braga, Portugal. With over 10 years of experience, I specialize in bridging the gap between complex .NET engineering and strategic business goals.
 
 ---
 
